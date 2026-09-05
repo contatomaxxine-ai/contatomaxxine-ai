@@ -14,9 +14,6 @@
 Sou uma aluna responsável, dedicada e organizada, apaixonada por tecnologia e música.  
 Gosto de transformar ideias em projetos e aprender algo novo a cada etapa.
 
-## 🎵 Sobre o projeto
-
-Este projeto foi desenvolvido em Python com Streamlit para organizar músicas por gênero e criar uma experiência simples e agradável para encontrar músicas.
 
 ## 🛠️ Tecnologias
 
